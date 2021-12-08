@@ -1,0 +1,36 @@
+{
+  "english": "worried",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "lo lắng",
+          "definition": "(opposite unworried)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Harry had a worried look on his face.",
+              "world_new": [
+                "look",
+                "face"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "worm",
+    "worn",
+    "worn out",
+    "worn to a shadow",
+    "worried",
+    "worried sick",
+    "worry",
+    "worse",
+    "worse luck!"
+  ]
+}

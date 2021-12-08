@@ -1,0 +1,74 @@
+{
+  "english": "yellow",
+  "phat_am": "ˈjeləu",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "màu vàng",
+          "definition": "(of) the colour/color of gold, the yolk of an egg etc",
+          "world_new": [
+            "gold",
+            "yolk",
+            "egg"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a yellow dress",
+              "world_new": [
+                "dress"
+              ]
+            },
+            {
+              "ex_of_definition": "yellow sands"
+            },
+            {
+              "ex_of_definition": "Yellow is my favourite/favorite colour/color.",
+              "world_new": [
+                "my"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "biến thành màu vàng",
+          "definition": "to make or become yellow",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It was autumn and the leaves were beginning to yellow.",
+              "world_new": [
+                "autumn",
+                "beginning"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "yellowness",
+    "yellow fever",
+    "yellow metal"
+  ],
+  "list_browse": [
+    "yearn",
+    "yearning",
+    "yeast",
+    "yell",
+    "yellow",
+    "yellow fever",
+    "yellow metal",
+    "yellowness",
+    "yelp"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "yoga",
+  "phat_am": "ˈyouɡə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bài tập yoga",
+          "definition": "any of several systems of physical exercises based on a Hindu system of philosophy and meditation.",
+          "world_new": [
+            "physical",
+            "Hindu",
+            "system",
+            "philosophy",
+            "meditation"
+          ]
+        },
+        {
+          "mean_english": "thuyết du già",
+          "definition": "the philosophy (usually including the meditation and exercises).",
+          "world_new": [
+            "philosophy",
+            "including",
+            "meditation"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "yogi"
+  ],
+  "list_browse": [
+    "yo-yo",
+    "yob",
+    "yodel",
+    "yodeller",
+    "yoga",
+    "yoghurt",
+    "yogi",
+    "yoke",
+    "yolk"
+  ]
+}

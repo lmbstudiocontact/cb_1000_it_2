@@ -1,0 +1,53 @@
+{
+  "english": "yes",
+  "phat_am": "jes",
+  "list_english": [
+    {
+      "type_word": "interjection",
+      "list_definition": [
+        {
+          "mean_english": "vâng; có; dạ",
+          "definition": "used to express agreement or consent",
+          "world_new": [
+            "express",
+            "agreement",
+            "consent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Yes, that is true",
+              "world_new": [
+                "true"
+              ]
+            },
+            {
+              "ex_of_definition": "Yes, you may go."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Physicians who indicated \"yes\" were then asked to describe the differences they had observed.",
+    "This is obligatory in yes/no questions, wh-questions where the subject is not questioned and in topicalised declaratives.",
+    "If the answer was yes, they were considered for inclusion.",
+    "I believe this question cannot be answered with a straightforward yes or no.",
+    "Yes, because it points to different cognitive functions, different aspects of mind.",
+    "Yes, that is extreme, and such views can be criticized.",
+    "A series of yes/no questions for a telephony application, for instance, may just as well be implemented using touch-tone input.",
+    "Yes, and the visual has a very strong content."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "yellow metal",
+    "yellowness",
+    "yelp",
+    "yen",
+    "yes",
+    "yesterday",
+    "yet",
+    "yew",
+    "yield"
+  ]
+}

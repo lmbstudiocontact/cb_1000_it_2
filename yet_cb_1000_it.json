@@ -1,0 +1,116 @@
+{
+  "english": "yet",
+  "phat_am": "jet",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "chưa",
+          "definition": "up till now",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He hasn’t called me yet"
+            },
+            {
+              "ex_of_definition": "Have you finished yet?",
+              "world_new": [
+                "finished"
+              ]
+            },
+            {
+              "ex_of_definition": "We’re not yet ready.",
+              "world_new": [
+                "ready"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lại nữa",
+          "definition": "used for emphasis",
+          "world_new": [
+            "emphasis"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s made yet another mistake",
+              "world_new": [
+                "mistake"
+              ]
+            },
+            {
+              "ex_of_definition": "I found yet more mistakes in the report.",
+              "world_new": [
+                "I",
+                "found",
+                "report"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thậm chí",
+          "definition": "even",
+          "world_new": [
+            "even"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a yet more terrible experience.",
+              "world_new": [
+                "terrible",
+                "experience"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "conjunction",
+      "list_definition": [
+        {
+          "mean_english": "tuy nhiên",
+          "definition": "but; however",
+          "world_new": [
+            "however"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s pleasant enough, yet I don’t like him.",
+              "world_new": [
+                "pleasant",
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The owner's conclusion was straightforward, yet not unproblematic.",
+    "The spatial structure of the cross and its orientation are still clearly discernible, yet its size has been reduced significantly.",
+    "Yet, growing into old age has taught me to be honest with myself.",
+    "Yet this ruling class ideology was and remains one of cultural synthesis.",
+    "It prioritizes community needs yet is based on a willingness to target interventions at the individual, community or systems level.",
+    "Yet so many other factors also influence epistemic convictions that purely national styles may be relatively rare.",
+    "Yet how might the avowed contextualist thereby account for style-change in music?",
+    "Decolonisation is over but it is not yet the past."
+  ],
+  "list_see_also": [
+    "as yet"
+  ],
+  "list_browse": [
+    "yelp",
+    "yen",
+    "yes",
+    "yesterday",
+    "yet",
+    "yew",
+    "yield",
+    "yo-yo",
+    "yob"
+  ]
+}

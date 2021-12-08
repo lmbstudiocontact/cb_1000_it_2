@@ -1,0 +1,62 @@
+{
+  "english": "wring",
+  "phat_am": "riŋ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "vắt",
+          "definition": "to force (water) from (material) by twisting or by pressure",
+          "world_new": [
+            "force",
+            "pressure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He wrung the water from his soaking-wet shirt.",
+              "world_new": [
+                "water",
+                "shirt"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vò đầu bứt tay",
+          "definition": "to clasp and unclasp (one’s hands) in desperation, fear etc.",
+          "world_new": [
+            "clasp",
+            "desperation",
+            "fear"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Everybody wrings their hands about this and says how deplorable it is.",
+    "Every concession had to be wrung from them.",
+    "They were wringing their hands in despair when unemployment was half what it is today and saying that something should be done.",
+    "I sincerely hope that they will not be wringing my hands and theirs when the test comes.",
+    "They will be wringing their hands before very long.",
+    "I accept that that is justified by the manifesto, but my withers are not particularly wrung by the force of that argument.",
+    "He reminded us of how our withers were wrung.",
+    "We are all wringing our hands in despair over what is, in effect, the very dividend of civilisation."
+  ],
+  "list_see_also": [
+    "wringer",
+    "wringing wet"
+  ],
+  "list_browse": [
+    "wretchedly",
+    "wretchedness",
+    "wriggle",
+    "wriggler",
+    "wring",
+    "wringer",
+    "wringing wet",
+    "wrinkle",
+    "wrinkled"
+  ]
+}

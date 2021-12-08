@@ -1,0 +1,158 @@
+{
+  "english": "would",
+  "phat_am": "wud",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quá khứ của will",
+          "definition": "past tense of will",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He said he would be leaving at nine o’clock the next morning",
+              "world_new": [
+                "o’clock",
+                "morning"
+              ]
+            },
+            {
+              "ex_of_definition": "I asked if he’d come and mend my television set",
+              "world_new": [
+                "I",
+                "mend",
+                "my",
+                "television"
+              ]
+            },
+            {
+              "ex_of_definition": "I asked him to do it, but he wouldn’t",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "I thought you would have finished by now.",
+              "world_new": [
+                "I",
+                "thought",
+                "finished"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hỏi lịch sự",
+          "definition": "used in speaking of something that will, may or might happen (eg if a certain condition is met)",
+          "world_new": [
+            "speaking",
+            "happen",
+            "certain",
+            "condition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If I asked her to the party, would she come?",
+              "world_new": [
+                "I",
+                "party"
+              ]
+            },
+            {
+              "ex_of_definition": "I would have come to the party if you’d asked me",
+              "world_new": [
+                "I",
+                "party"
+              ]
+            },
+            {
+              "ex_of_definition": "I’d be happy to help you.",
+              "world_new": [
+                "happy",
+                "help"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nêu quan điểm, ý kiến",
+          "definition": "used to express a preference, opinion etc politely",
+          "world_new": [
+            "express",
+            "preference",
+            "opinion",
+            "politely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I would do it this way",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "It’d be a shame to lose the opportunity",
+              "world_new": [
+                "shame",
+                "lose",
+                "opportunity"
+              ]
+            },
+            {
+              "ex_of_definition": "I’d prefer to go tomorrow rather than today.",
+              "world_new": [
+                "prefer",
+                "tomorrow",
+                "rather"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sử dụng để nhấn mạnh",
+          "definition": "used, said with emphasis, to express annoyance",
+          "world_new": [
+            "emphasis",
+            "express",
+            "annoyance"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve lost my car-keys – that would happen!",
+              "world_new": [
+                "lost",
+                "my",
+                "happen"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Physically, this 6 has the effect of a long-wavelength modulation to the system which would be the same for all the interaction coefficients.",
+    "But it would prove impossible to deduce a physical theory from such purely formal theorems.",
+    "Moreover, to ignore this combination of linguistic and sociocultural factors would degrade psychological research.",
+    "Thus, the spending of the new pesticide tax proceeds, to a great extent, would redistribute money from conventional to organic farming.",
+    "The maps deal with climate and emphasise special features relating to rainfall, winds,- etc., which would riot be shown in an ordinary topographical atlas.",
+    "Only quick action would transfer people from relief to work as the president wanted.",
+    "In that case the grammar would have a phonotactic filter permitting /0/ to form nuclei only with single-x nonconsonantal melodies.",
+    "Thus, even if we were measuring the correct symptoms, we could expect that our purely categorical disease would be hidden within a continuous symptom distribution."
+  ],
+  "list_see_also": [
+    "would-be",
+    "would you"
+  ],
+  "list_browse": [
+    "worthlessly",
+    "worthlessness",
+    "worthwhile",
+    "worthy",
+    "would",
+    "would you",
+    "would-be",
+    "wound",
+    "wounded"
+  ]
+}

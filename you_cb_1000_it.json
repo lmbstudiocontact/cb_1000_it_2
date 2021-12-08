@@ -1,0 +1,78 @@
+{
+  "english": "you",
+  "phat_am": "juː",
+  "list_english": [
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "bạn; anh; chị…",
+          "definition": "(used as the subject or object of a verb, or as the object of a preposition) the person(s) you spoken or written to",
+          "world_new": [
+            "subject",
+            "object",
+            "verb",
+            "object",
+            "spoken"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You look well!",
+              "world_new": [
+                "look"
+              ]
+            },
+            {
+              "ex_of_definition": "I asked you a question",
+              "world_new": [
+                "I",
+                "question"
+              ]
+            },
+            {
+              "ex_of_definition": "Do you all understand?",
+              "world_new": [
+                "understand"
+              ]
+            },
+            {
+              "ex_of_definition": "Who came with you?"
+            }
+          ]
+        },
+        {
+          "mean_english": "mày; chúng mày",
+          "definition": "used with a noun when calling someone something, especially something unpleasant",
+          "world_new": [
+            "noun",
+            "calling",
+            "unpleasant"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You idiot!",
+              "world_new": [
+                "idiot"
+              ]
+            },
+            {
+              "ex_of_definition": "You fools!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "yogi",
+    "yoke",
+    "yolk",
+    "yolk sac",
+    "you",
+    "you bet",
+    "you never can tell",
+    "you’re welcome!",
+    "young"
+  ]
+}

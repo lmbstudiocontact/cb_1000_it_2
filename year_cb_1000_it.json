@@ -1,0 +1,78 @@
+{
+  "english": "year",
+  "phat_am": "jiə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "năm",
+          "definition": "the period of time the earth takes to go once round the sun, about 365 days",
+          "world_new": [
+            "period",
+            "time",
+            "earth",
+            "once",
+            "sun"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We lived here for five years, from November 2000 to November 2005",
+              "world_new": [
+                "November",
+                "November"
+              ]
+            },
+            {
+              "ex_of_definition": "a two-year delay.",
+              "world_new": [
+                "delay"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "năm",
+          "definition": "the period from January 1 to December 31, being 365 days, except in a leap year, when it is 366 days",
+          "world_new": [
+            "period",
+            "January",
+            "December",
+            "leap"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "in the year 1945."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Only 12% of the population were aged 45 years or older.",
+    "More than seven years later it has still not been shown.",
+    "Increasing number of staff coming to retirement age in the next few years.",
+    "In the early years of this decade the approach known as ' generative semantics ' had become predominant.",
+    "The response among young male adults aged 20 -24 years was particularly poor (y20 %).",
+    "Still, it is interesting to note that the link between local elections in 2004 and presidential elections two years later is tenuous at best.",
+    "The population between 0-6 years old was 260,961, 7-14 years old 346,819, and among them 2,473 children were disabled.",
+    "All age groups (nine children, five adults) were affected (mean 24 years, range 1.5-75 years)."
+  ],
+  "list_see_also": [
+    "yearly",
+    "yearbook",
+    "all (the) year round/long etc"
+  ],
+  "list_browse": [
+    "yawning",
+    "yd",
+    "ye",
+    "yeah",
+    "year",
+    "yearbook",
+    "yearly",
+    "yearn",
+    "yearning"
+  ]
+}

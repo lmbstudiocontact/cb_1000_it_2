@@ -1,0 +1,35 @@
+{
+  "english": "written",
+  "phat_am": "ˈritn",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "được viết",
+          "definition": "in writing",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a written message.",
+              "world_new": [
+                "message"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "writhe",
+    "writing",
+    "writing paper",
+    "writings",
+    "written",
+    "wrong",
+    "wrongdoer",
+    "wrongdoing",
+    "wrongful"
+  ]
+}

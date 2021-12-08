@@ -1,0 +1,136 @@
+{
+  "english": "word",
+  "phat_am": "wəːd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "từ",
+          "definition": "the smallest unit of language (whether written, spoken or read)",
+          "world_new": [
+            "unit",
+            "language",
+            "spoken"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a list of useful words to learn.",
+              "world_new": [
+                "list",
+                "useful",
+                "learn"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc nói chuyện",
+          "definition": "a (brief) conversation",
+          "world_new": [
+            "conversation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’d like a (quick) word with you in my office.",
+              "world_new": [
+                "my",
+                "office"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tin tức",
+          "definition": "news",
+          "world_new": [
+            "news"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When you get there, send word that you’ve arrived safely.",
+              "world_new": [
+                "send",
+                "safely"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lời hứa",
+          "definition": "a solemn promise",
+          "world_new": [
+            "solemn",
+            "promise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave her his word that it would never happen again.",
+              "world_new": [
+                "happen"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bày tỏ bằng lời",
+          "definition": "to express in written or spoken language",
+          "world_new": [
+            "express",
+            "spoken",
+            "language"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How are you going to word the letter so that it doesn’t seem rude?",
+              "world_new": [
+                "letter",
+                "seem",
+                "rude"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This could be due to a purely syntactic difference between number words and adjectives.",
+    "In the model, word final stops and fricatives were given weaker representations in the normal case to reflect their lower salience.",
+    "In other words, backward-reconstruct paths of zeros that lead to the output of the computation.",
+    "Thus, changes in known lexical representations may lead to changes in homonym learning but not novel word learning.",
+    "Phonetic transcription reveals that many of children's early uses of wh- words are phonetically reduced and part of fixed sequences.",
+    "The zero plural avoids the problem of having two sibilants in quick succession at the end of the words, and coincidentally maintains the classical tradition.",
+    "But this doesn't necessarily mean that the locus of thought is natural language representations (words, syntax, phonology).",
+    "The word permitted a nonscientific psychological preoccupation to reappear as the subject of scientific experiment."
+  ],
+  "list_see_also": [
+    "wording",
+    "word processor",
+    "word processing",
+    "word-perfect",
+    "by word of mouth",
+    "get a word in edgeways",
+    "in a word",
+    "keep/break one’s word",
+    "take (someone) at his/her word",
+    "take someone’s word for it",
+    ""
+  ],
+  "list_browse": [
+    "woollen",
+    "woollens",
+    "woolliness",
+    "woolly",
+    "word",
+    "word for word",
+    "word of honour/honor",
+    "word processing",
+    "word processor"
+  ]
+}
